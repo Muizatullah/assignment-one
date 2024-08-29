@@ -7,7 +7,7 @@
 -COMMAND
 
 ### DEMO LINK
-{Assignment-one}(example.git.com)
+{Assignment-one}(https://muizatullah.github.io/assignment-one/)
 
 ### muizat
 - bakri
